@@ -2,8 +2,7 @@
 - I’m @AyeshaNajnin
 - 👀 I’m interested in Software Testing and Automation.
 - 🌱 I’m currently learning Automation Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me shammynajnin@gmail.com
 
 <!---
 AyeshaNajnin/AyeshaNajnin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
