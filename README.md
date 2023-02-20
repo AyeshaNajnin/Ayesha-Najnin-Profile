@@ -1,5 +1,5 @@
 # 👋 Hi, 
-Welcpme!
+Welcome!
 - I’m @AyeshaNajnin
 - 👀 I’m interested in Software Testing and Automation.
 - 🌱 I love to learn Automation
